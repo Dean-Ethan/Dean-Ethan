@@ -12,3 +12,4 @@ My Goals:
 - Build cool projects
 - Learn more about open source
 - Improve my coding skills
+- Building helpful tools
